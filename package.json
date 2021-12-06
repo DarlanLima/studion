@@ -1,0 +1,27 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "First project from ImagineOn's Fullstack Development Course",
+  "main": "scr/ndex.html\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dindex.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarlanLima/studion.git"
+  },
+  "keywords": [
+    "html",
+    "CSS",
+    "javascript"
+  ],
+  "author": "Darlan Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarlanLima/studion/issues"
+  },
+  "homepage": "https://github.com/DarlanLima/studion#readme",
+  "devDependencies": {
+    "live-server": "^1.1.0"
+  }
+}
